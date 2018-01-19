@@ -1,8 +1,8 @@
 ## Dataset de Delitos en CABA
-Este repositorio contiene un archivo único, actualizado automáticamente con más de `184.879` delitos denunciados cometidos en la ciudad de Buenos Aires desde el año 2016.
+Este repositorio contiene un archivo único, actualizado automáticamente con más de `184.879` delitos denunciados cometidos en la Ciudad de Buenos Aires desde el año 2016.
 
 ### Motivo
-Si bien los datos son públicos (ver sección `Aclaración`), no está disponible para su descarga un archivo completo, con todos los campos, para simplificar el análisis de los mismos. Este repositorio simplifica ese problema.
+Si bien los datos son públicos (ver sección `Aclaración`), no está disponible para su descarga un archivo completo, con todos los campos, para simplificar el análisis de los mismos. Este repositorio soluciona ese problema.
 
 ### Datos
 El archivo en formato `JSON` lleva por nombre `delitos.json`.
