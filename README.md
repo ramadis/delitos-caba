@@ -1,7 +1,7 @@
 ## Dataset de Delitos en CABA
-Este repositorio contiene un archivo único, actualizado automáticamente con más de `238.188` delitos denunciados cometidos en la Ciudad de Buenos Aires desde el año 2016.
-
 [Read in English](https://github.com/ramadis/delitos-caba/blob/master/README.en.md)
+
+Este repositorio contiene un archivo único, actualizado automáticamente con más de `350.980` delitos denunciados cometidos en la Ciudad de Buenos Aires desde el año 2016.
 
 ### Motivo
 Si bien los datos son públicos (ver sección `Aclaración`), no está disponible para su descarga un archivo completo, con todos los campos, para simplificar el análisis de los mismos. Este repositorio soluciona ese problema.
@@ -42,7 +42,5 @@ cantidad_victimas | Number | Cantidad de víctimas fatales
   "cantidad_victimas": 0 }
 ```
 
-
-
 ### Aclaración
-Estos datos son públicos y están disponibles para su visualización en la página oficial [http://mapa.seguridadciudad.gob.ar/](http://mapa.seguridadciudad.gob.ar/)
+Estos datos son públicos y están disponibles para su visualización en la página oficial [http://mapa.seguridadciudad.gob.ar/](http://mapa.seguridadciudad.gob.ar/).

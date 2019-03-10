@@ -1,5 +1,5 @@
 ## Buenos Aires Crime Dataset
-This repository contains a single file, automatically updated with more than `238,188` reported crimes committed in the City of Buenos Aires since 2016.
+This repository contains a single file, automatically updated with more than `350,980` reported crimes committed in the City of Buenos Aires since 2016.
 
 ### Motive
 Although the data is public (see section 'Clarification'), a complete file is not available for downloading, with all the fields, to simplify the analysis of them. This repository solves that problem.
