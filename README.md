@@ -7,7 +7,7 @@ Este repositorio genera automáticamente un archivo único, actualizado con más
 Si bien los datos son públicos (ver sección `Aclaración`), no está disponible para su descarga un archivo completo, con todos los campos, para simplificar el análisis de los mismos. Este repositorio soluciona ese problema.
 
 ### Datos
-El archivo en formato `JSON` lleva por nombre `delitos` y puede ser descargado desde releases en formato `JSON` o en formato `CSV`.
+El archivo en formato `JSON` lleva por nombre `delitos` y puede ser descargado desde releases [en formato `JSON`](https://github.com/ramadis/delitos-caba/releases/download/3.0/delitos.json) o [en formato `CSV`](https://github.com/ramadis/delitos-caba/releases/download/3.0/delitos.csv).
 
 Campo | Tipo | Descripción
 -- | -- | --

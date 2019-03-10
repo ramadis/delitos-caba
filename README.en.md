@@ -5,7 +5,7 @@ This repository generates automatically a single file, updated with more than `3
 Although the data is public (see section 'Clarification'), a complete file is not available for downloading, with all the fields, to simplify the analysis of them. This repository solves that problem.
 
 ### Data
-The file in `JSON` format, is named `delitos` and can be downloaded from the releses section in `JSON` or `CSV` format.
+The file in `JSON` format, is named `delitos` and can be downloaded from the [releases section in `JSON`](https://github.com/ramadis/delitos-caba/releases/download/3.0/delitos.json) or [`CSV` format](https://github.com/ramadis/delitos-caba/releases/download/3.0/delitos.csv).
 
 Campo | Tipo | Descripción
 -- | -- | --
