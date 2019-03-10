@@ -1,3 +1,5 @@
 .DS_Store
 node_modules
 downloaded
+delitos.json
+delitos.csv

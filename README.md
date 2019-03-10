@@ -1,13 +1,13 @@
 ## Dataset de Delitos en CABA
 [Read in English](https://github.com/ramadis/delitos-caba/blob/master/README.en.md)
 
-Este repositorio contiene un archivo único, actualizado automáticamente con más de `350.980` delitos denunciados cometidos en la Ciudad de Buenos Aires desde el año 2016.
+Este repositorio genera automáticamente un archivo único, actualizado con más de `350.980` delitos denunciados cometidos en la Ciudad de Buenos Aires desde el año 2016.
 
 ### Motivo
 Si bien los datos son públicos (ver sección `Aclaración`), no está disponible para su descarga un archivo completo, con todos los campos, para simplificar el análisis de los mismos. Este repositorio soluciona ese problema.
 
 ### Datos
-El archivo en formato `JSON` lleva por nombre `delitos.json`.
+El archivo en formato `JSON` lleva por nombre `delitos` y puede ser descargado desde releases en formato `JSON` o en formato `CSV`.
 
 Campo | Tipo | Descripción
 -- | -- | --
