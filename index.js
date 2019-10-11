@@ -28,7 +28,7 @@ const URI = process.env.URI;
 
 // Parameters to get all the data
 const params = {
-  years: [2016, 2017, 2018],
+  years: [2016, 2017, 2018, 2019],
   months: Array.from({ length: 12 }).map((_, idx) => idx + 1),
   crimes: [1] // id 1 represents all kinds of crimes
 };
