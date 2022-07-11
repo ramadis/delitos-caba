@@ -3,6 +3,8 @@
 
 Este repositorio genera automáticamente un archivo único, actualizado con más de `361.658` delitos denunciados cometidos en la Ciudad de Buenos Aires desde el año 2016.
 
+Este repositorio está obsoleto, y fue reemplazado por [el dataset oficial de delitos de la Ciudad de Buenos Aires](https://data.buenosaires.gob.ar/dataset/delitos).
+
 ### Motivo
 Si bien los datos son públicos (ver sección `Aclaración`), no está disponible para su descarga un archivo completo, con todos los campos, para simplificar el análisis de los mismos. Este repositorio soluciona ese problema.
 
